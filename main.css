@@ -10,7 +10,7 @@ nav {
     top: 0;
     left: 0;
     backdrop-filter: blur(10px) saturate(200%) brightness(70%);
-    color: #fff;
+    color: #fc57ff;
     display: flex;
     height: 7vw;
     width: 100%;
@@ -62,7 +62,7 @@ nav h1 {
     background-color: #222222;
     border: none;
     border-radius: 1vw 0 0 1vw;
-    color: #fff;
+    color: #ffffff;
     font-size: 1.5vw;
     font-weight: 600;
     padding: 0.8vw 1.5vw;
@@ -78,10 +78,10 @@ nav h1 {
 }
  
 .search button {
-    background-color: #fff;
+    background-color: #fa5ffc;
     border: none;
     border-radius: 0 1vw 1vw 0;
-    color:#222222;
+    color:#ffffff;
     font-size: 1.5vw;
     font-weight: 600;
     padding: 0.8vw 1vw;
@@ -129,7 +129,7 @@ nav h1 {
     margin: 1vw 1vw .4vw 1vw;
     width: 83.8%;
     text-align: left;
-    color: #fff;
+    color: #ffffff;
 }
 
 .featured .column {
@@ -161,7 +161,7 @@ nav h1 {
 .featured a {
     display: inline-block;
     position: relative;
-    color: #2c7ffc;
+    color: #fa68fc;
     text-decoration: none;
 }
     
@@ -181,5 +181,5 @@ nav h1 {
     
     .featured .play-button i {
     font-size: 5vw;
-    text-shadow: 0 0 100px #2c7ffc;
+    text-shadow: 0 0 100px #fa68fc;
     }
